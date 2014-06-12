@@ -1,0 +1,8 @@
+{
+    "name": "jstimer",
+    "version": "1.0.0",
+    "main": "jstimer.js",
+    "ignore": [
+        ".jshintrc"
+    ]
+}
